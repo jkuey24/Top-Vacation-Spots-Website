@@ -1,0 +1,107 @@
+h2 {
+  text-align: center;
+  color:blrgb(0, 0, 0)ue;
+  font-family:fantasy;
+  font-size:40pt;}
+
+h2:hover {
+  color:rgb(255, 0, 0)
+}
+
+h2 {
+  ackground:url(http://7-themes.com/data_images/out/78/7040177-sand-dune-sunset-wallpaper.jpg) center no-repeat;
+  width:auto;
+  background-size: cover;
+}
+
+
+
+#title{
+  font-size:70pt;
+  font-family: fantasy;
+  color:rgb(1, 0, 0);
+text-display:flex;
+text-align: center;
+}
+#title {
+  background:url(https://0.s3.envato.com/files/165962693/30.12.15%20sunset%20sea%204K%20PRE.jpg) center no-repeat;
+  background-size: cover;
+  width:auto;
+
+
+}
+#title:hover{
+  color:rgb(255, 255, 255);
+}
+
+
+.first { color: purple;
+  font-family: cursive;
+}
+
+.first::first-letter {
+  font-size: 50pt;
+}
+
+.second {
+  font-weight:bold;
+  font-family: fantasy;
+}
+
+ol {
+  line-height: 250%;
+}
+
+.third {
+  color:green;
+  font-family:monospace;
+}
+
+section {
+  margin: 0 auto;
+}
+
+#mylistdiv {
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+
+p {text-align:center;
+  font-size: 30pt;
+  font-family: fantasy;}
+
+p:hover{color:rgb(49, 79, 238)}
+
+.images{
+  justify-content:center;
+  display: flex;
+
+
+}
+
+.images img {
+    width: 50%;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 40%;
+
+}
+
+body{
+  background-color:rgb(255, 246, 196);
+
+}
+
+table{
+  justify-content:center;
+  display: flex;
+  padding:30px;
+}
+td{
+  height:50px;
+  width:75%;
+  text-alignment:center;
+  font-size: 20pt;
+  font-family: fantasy;
+}
