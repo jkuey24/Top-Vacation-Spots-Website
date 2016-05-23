@@ -14,21 +14,18 @@ h2 {
   background-size: cover;
 }
 
-
-
 #title{
   font-size:70pt;
   font-family: fantasy;
   color:rgb(1, 0, 0);
-text-display:flex;
-text-align: center;
+  text-display:flex;
+  text-align: center;
 }
+
 #title {
   background:url(https://0.s3.envato.com/files/165962693/30.12.15%20sunset%20sea%204K%20PRE.jpg) center no-repeat;
   background-size: cover;
   width:auto;
-
-
 }
 #title:hover{
   color:rgb(255, 255, 255);
@@ -76,21 +73,17 @@ p:hover{color:rgb(49, 79, 238)}
 .images{
   justify-content:center;
   display: flex;
-
-
 }
 
 .images img {
-    width: 50%;
-    height: auto;
-    border: 2px solid black;
-    border-radius: 40%;
-
+  width: 50%;
+  height: auto;
+  border: 2px solid black;
+  border-radius: 40%;
 }
 
 body{
   background-color:rgb(255, 246, 196);
-
 }
 
 table{
@@ -98,6 +91,7 @@ table{
   display: flex;
   padding:30px;
 }
+
 td{
   height:50px;
   width:75%;
